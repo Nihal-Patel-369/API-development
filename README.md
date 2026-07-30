@@ -2,21 +2,7 @@
            PAGILA BACKEND REST API - POSTMAN USER GUIDE
 ====================================================================
 
-STEP 1: START THE SERVER
---------------------------------------------------------------------
-Run the following command in your terminal/command prompt:
-
-   node server.js
-
-Base API URL: http://localhost:3000/api/v1
-
-
-STEP 2: IMPORT PRE-BUILT POSTMAN COLLECTION (ONE-CLICK SETUP)
---------------------------------------------------------------------
-1. Open Postman app.
-2. Click the "Import" button (top left).
-3. Select the file "pagila-api.postman_collection.json" from this project folder.
-4. All APIs with ready-made requests will appear in your Postman sidebar!
+ START THE SERVER
 
 
 ====================================================================
